@@ -1,0 +1,6 @@
+﻿  RenderMain.cpp.cpp
+  main.cpp
+d:\github\redstoneengine\redstoneengine\source\main.cpp(20): warning C4244: “参数”: 从“SIZE_T”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+D:\GitHub\RedStoneEngine\RedStoneEngine\x64\Debug\RedStoneEngine.exe : fatal error LNK1120: 1 个无法解析的外部命令
