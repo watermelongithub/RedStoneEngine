@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Source\main.cpp" />
-    <ClCompile Include="..\Source\RenderMain.cpp.cpp" />
+    <ClCompile Include="..\Source\RenderMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B037B6E8-FA76-47BC-999E-7EEF81E47303}</ProjectGuid>
